@@ -1,2 +1,2 @@
 # Proyecto Tiendita Basado en Flutter Y Andriod Studio
-Proyecto sobre una tiendita desarrollado en Andriod Studio en una IDLE Flutter
+Proyecto sobre una tiendita desarrollado en Andriod Studio en una IDLE Flutter, la cual nos permitia registar y guardar un usuario y darle un respectivo permiso, todo esto mientras por supuesto se guarda en una base de datos conectado al Android Studio, iniciar seccion con el usuario el cual podia guardar nuevos productos, asi como hacer un crud con dichos productos por parte del usuario.
